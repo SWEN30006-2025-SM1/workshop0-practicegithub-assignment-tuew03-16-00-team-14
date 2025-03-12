@@ -26,3 +26,5 @@ public class CalculatorTest {
         Assert.assertEquals(5, calculator.divide(10, 2), 0.5);
     }
 }
+
+// basic dummy commit
